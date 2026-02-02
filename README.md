@@ -1,16 +1,17 @@
 # lakeshorelyra.github.io
+# Built with Jekyll 3.6.0
 
 # Setup
 title:               末法時代
 tagline:             "We haven't had that spirit here since 1969."
 description:         'A private house of beauty and evil.'
-url:                 'https://caesitas-c.github.io'
+url:                 'https://lakeshorelyra.github.io'
 baseurl:             '/blog'
 
 # About/contact
 author:
-  name:              Caesitas
-  email:             272402816@qq.com
+  name:              Lyra
+  email:             1691585825@qq.com
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
 color-scheme:
